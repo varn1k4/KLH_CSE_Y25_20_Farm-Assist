@@ -37,7 +37,7 @@ The exact commands for setup and execution will be updated as the project develo
 
 Current Phase Status
 
-Current Phase: Project Setup and Planning
+Current Phase: Project Setup and Planning.
 
 Status: In Progress
 
